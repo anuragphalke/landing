@@ -1,0 +1,27 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v6.1.2/css/all.css');
+
+/* Utilities */
+@import url("components/banner.css");
+@import url("components/cards.css");
+@import url("components/footer.css");
+
+
+body {
+  margin: 0;
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+
+a {
+  text-decoration: none;
+}
+
+/* Custom design below! */
